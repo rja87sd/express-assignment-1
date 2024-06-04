@@ -1,3 +1,5 @@
+// Credit to ChatGPT for assistance and code comments.
+
 const express = require("express");
 const app = express();
 const port = 3000;

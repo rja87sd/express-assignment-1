@@ -77,3 +77,6 @@ POST /data should accept and return JSON data.
 
 Submit the URL of your GitHub repository. Make sure it includes all necessary files to run the server, the updated README.md, and is set to public.
 https://github.com/rja87sd/express-assignment-1
+
+# Credits
+Credit to ChatGPT for assistance and code comments.
