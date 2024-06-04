@@ -30,6 +30,7 @@ Within your project directory, run npm init -y to generate a package.json file.
 ### Install Express:
 
 Add Express as a dependency with npm install express.
+![alt text](image-6.png)
 
 ## Part 3: Implement the Server
 ### Create an Express Server:
